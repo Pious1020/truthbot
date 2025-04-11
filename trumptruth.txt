@@ -1,0 +1,200 @@
+Timestamp: April 11, 2025, 12:42 PM
+Truth: “Trump’s first three Cabinet meetings feature more press questions and answers than all of Biden’s”https://www.washingtontimes.com/news/2025/apr/10/trumps-first-three-cabinet-meetings-feature-press-questions-answers/
+Sentiment: NEGATIVE -> Market Outlook: Bearish
+--------------------------------------------------
+Timestamp: April 11, 2025, 12:39 PM
+Truth: “President Trump Is Saving Social Security and Stopping Fraud – Don’t Believe Media Lies”https://amac.us/newsline/society/president-trump-is-saving-social-security-and-stopping-fraud-dont-believe-media-lies/
+Sentiment: NEGATIVE -> Market Outlook: Bearish
+--------------------------------------------------
+Timestamp: April 11, 2025, 12:25 PM
+Truth: Stuart Varney: “This week, President Trump dominated the world stage. He stamped his influence on markets and economies everywhere. I've been doing this for 50 years and I can't remember a week quite like this one...He is reversing America's direction. Trump does not accept massive trade deficits and job losses. That's what this week has been all about."
+Sentiment: NEGATIVE -> Market Outlook: Bearish
+--------------------------------------------------
+Timestamp: April 11, 2025, 12:21 PM
+Truth: Today, President Donald J. Trump and Kirkland & Ellis LLP, Allen Overy Shearman Sterling US LLP, Simpson Thacher & Bartlett LLP, and Latham & Watkins LLP (the “Law Firms”) announce the following agreement regarding a series of actions to be taken by the Law Firms:1. The Law Firms will provide an aggregate total of at least $500 Million Dollars in pro bono and other free Legal services, during the Trump Administration and beyond, in the respective amounts set forth below, to causes that President Trump and the Law Firms both support and agree to work on, including in the following areas: Assisting Veterans and other Public Servants, including, among others, members of the Military, Gold Star families, Law Enforcement, and First Responders; ensuring fairness in our Justice System; and combatting Antisemitism. The Law Firms will take on a wide range of pro bono matters that represent the full political spectrum, including Conservative ideals.The Law Firms and their commitments are: Kirkland & Ellis LLP, Allen Overy Shearman Sterling US LLP, Simpson Thacher & Bartlett LLP, and Latham & Watkins LLP: $125 Million Dollars each.2. The Law Firms affirm their commitment to Merit-Based Hiring, Promotion, and Retention. Accordingly, the Law Firms will not engage in illegal DEI discrimination and preferences. The Law Firms affirm that it is their policy to give Fair and Equal consideration to Job Candidates, irrespective of their political beliefs, including Candidates who have served in the Trump Administration, and any other Republican or Democrat Administration. The Law Firms will engage outside counsel to advise the Law Firms in confirming their employment practices are fully compliant with Law, including, but not limited to, Anti-Discrimination Laws.3. The Law Firms affirm that they will not deny representation to clients, such as members of politically disenfranchised groups and Government Officials, employees, and advisors, who have not historically received Legal representation from major National Law Firms, including in pro bono matters, and in support of non-profits, because of the personal political views of individual lawyers.4. Concurrent with these agreements, the EEOC has withdrawn the March 17, 2025 letters to the Law Firms, and will not pursue any claims related to those issues….
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 11, 2025, 12:21 PM
+Truth: ….Statement from the White House: "President Trump and his Administration have entered into an agreement with these long established firms, which have affirmed their strong commitment to ending the Weaponization of the Justice System and the Legal Profession. The President continues to fulfill his promise to the American People that the Age of Partisan Lawfare in America is OVER.”Statement from the Law Firms: “Today, our Firms reached an agreement with President Trump and his Administration, including the U.S. Equal Employment Opportunity Commission (EEOC). We have resolved this matter while upholding long-held principles important to each of our Firms: Equal Employment Opportunity; providing pro bono assistance to a wide range of underserved populations, and ensuring fairness in the Justice System; and representing a broad spectrum of clients on various matters. We look forward to a continued constructive and productive relationship with President Trump and his team.”-- Jon A. Ballis, Chairman, Kirkland & Ellis; Khalid Garousha, Global Senior Partner, AO Shearman; Alden Millard, Chair of Simpson Thacher’s Executive Committee; Richard M. Trobman, Chair and Managing Partner, Latham & Watkins.
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 11, 2025, 12:19 PM
+Truth: Today, President Donald J. Trump and Cadwalader, Wickersham & Taft, LLP (“Cadwalader”) announce the following commitments regarding a series of actions to be taken by Cadwalader:1. Cadwalader will provide a total of at least $100 Million Dollars in pro bono Legal Services, during the Trump Administration, and beyond, to causes that President Trump and Cadwalader both support, such as: Assisting Veterans and other Public Servants including, among others, members of the Military, Gold Star families, Law Enforcement, and First Responders; Ensuring fairness in our Justice System; and Combatting Antisemitism. Cadwalader’s pro bono Committee will ensure that pro bono matters are consistent with these objectives, and that pro bono activities represent the full political spectrum, including Conservative ideals.2. Cadwalader affirms its commitment to Merit-Based Hiring, Promotion, and Retention. Accordingly, the Firm will not engage in illegal DEI discrimination and preferences. Cadwalader affirms that it is Cadwalader’s policy to give Fair and Equal consideration to Job Candidates, irrespective of their political beliefs, including Candidates who have served in the Trump Administration, and any other Republican or Democrat Administration. Cadwalader will engage independent outside counsel to advise the Firm in confirming that employment practices are fully compliant with Law, including, but not limited to, Anti-Discrimination Laws.3. Cadwalader affirms that it will not deny representation to clients, such as members of politically disenfranchised groups and Government Officials, employees, and advisors, who have not historically received Legal representation from major National Law Firms, including in pro bono matters and in support of non-profits, because of the personal political views of individual lawyers, consistent with our intake and conflicts procedures and capabilities….
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 11, 2025, 12:19 PM
+Truth: ….Statement from the White House: “President Trump and his Administration have entered into an agreement with Cadwalader, Wickersham & Taft, LLP, which voiced their strong commitment to ending the Weaponization of the Justice System and the Legal Profession. The President will not stop fighting until we have ended Partisan Lawfare in the United States of America, and restored Liberty and Justice for ALL.”Statement from Cadwalader Managing Partner, Patrick Quinn: “Cadwalader has achieved a successful agreement with President Trump and his Administration. We engaged with the President and his team in working together constructively to reach this agreement. The substance of our agreement is consistent with the principles that have guided Cadwalader for over 230 years: We always put our client’s interests first; We believe that Justice should be available to everyone; and We are committed to attracting, retaining and nurturing the very best talent from all backgrounds. The Firm looks forward to having a productive relationship with President Trump and his Administration. We firmly believe that this outcome is in the best interests of our clients, our people, and our Firm.”
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 11, 2025, 9:52 AM
+Truth: The House and Senate should push hard for more Daylight at the end of a day. Very popular and, most importantly, no more changing of the clocks, a big inconvenience and, for our government, A VERY COSTLY EVENT!!!  DJT
+Sentiment: NEGATIVE -> Market Outlook: Bearish
+--------------------------------------------------
+Timestamp: April 11, 2025, 9:35 AM
+Truth: Russia has to get moving. Too many people ere DYING, thousands a week, in a terrible and senseless war - A war that should have never happened, and wouldn’t have happened, if I were President!!!
+Sentiment: NEGATIVE -> Market Outlook: Bearish
+--------------------------------------------------
+Timestamp: April 11, 2025, 9:20 AM
+Truth: We are doing really well on our TARIFF POLICY.  Very exciting for America, and the World!!! It is moving along quickly.  DJT
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 11, 2025, 8:12 AM
+Truth: No text found
+Sentiment: NEGATIVE -> Market Outlook: Bearish
+--------------------------------------------------
+Timestamp: April 10, 2025, 7:12 PM
+Truth: Terrible helicopter crash in the Hudson River. Looks like six people, the pilot, two adults, and three children, are no longer with us. The footage of the accident is horrendous. God bless the families and friends of the victims. Secretary of Transportation, Sean Duffy, and his talented staff are on it. Announcements as to exactly what took place, and how, will be made shortly!
+Sentiment: NEGATIVE -> Market Outlook: Bearish
+--------------------------------------------------
+Timestamp: April 10, 2025, 7:09 PM
+Truth: No text found
+Sentiment: NEGATIVE -> Market Outlook: Bearish
+--------------------------------------------------
+Timestamp: April 10, 2025, 6:58 PM
+Truth: Mexico OWES Texas 1.3 million acre-feet of water under the 1944 Water Treaty, but Mexico is unfortunately violating their Treaty obligation. This is very unfair, and it is hurting South Texas Farmers very badly. Last year, the only Sugar Mill in Texas CLOSED, because Mexico has been stealing the water from Texas Farmers. Ted Cruz has been leading the fight to get South Texas the water it is owed, but Sleepy Joe refused to lift a finger to help the Farmers.THAT ENDS NOW! I will make sure Mexico doesn’t violate our Treaties, and doesn’t hurt our Texas Farmers. Just last month, I halted water shipments to Tijuana until Mexico complies with the 1944 Water Treaty. My Agriculture Secretary, Brooke Rollins, is standing up for Texas Farmers, and we will keep escalating consequences, including TARIFFS and, maybe even SANCTIONS, until Mexico honors the Treaty, and GIVES TEXAS THE WATER THEY ARE OWED!
+Sentiment: NEGATIVE -> Market Outlook: Bearish
+--------------------------------------------------
+Timestamp: April 10, 2025, 6:57 PM
+Truth: I am pleased to announce that William "Billy" Marshall III, of the Great State of West Virginia, a State I love and won SIX times, as the next Director of the Bureau of Prisons. Billy has a distinguished Law Enforcement career, rising from the ranks of the West Virginia State Police to serving as the current Commissioner of the West Virginia Division of Corrections and Rehabilitation. Billy is a Strong Advocate for LAW AND ORDER. He understands the struggles of our prisons better than anyone, and will help fix our broken Criminal Justice System. Congratulations Billy, you will inspire us all!
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 10, 2025, 6:33 PM
+Truth: I am pleased to announce that former Congressman Mark Walker, of North Carolina, a place I love and won SIX times, will be the United States Ambassador-at-Large for International Religious Freedom.A former pastor, Mark was elected unanimously to House Leadership, and did an incredible job as Ranking Member on the House Homeland Security’s Counterterrorism and Intelligence Subcommittee. As Chairman of the Republican Study Committee, Mark helped us secure many Victories. In his new role, Mark will work incredibly hard to expose Human Rights Violations, champion Faith, and help us secure Life Saving Results.Congratulations to Mark, his wonderful wife, Dr. Kelly Walker, a Captain in the U.S. Air Force Reserves, and their three children.
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 10, 2025, 6:33 PM
+Truth: I am proud to nominate Yehuda Kaploun as the United States Special Envoy to Monitor and Combat Antisemitism, Ambassador-at-Large. Yehuda is a successful businessman, and staunch advocate for the Jewish Faith and the Rights of his people to live and worship free from persecution. With Anti-Semitism dangerously on the rise, Yehuda will be the strongest Representative for Americans and Jews across the Globe, and promote PEACE. Congratulations Yehuda!
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 10, 2025, 5:57 PM
+Truth: Senator Pete Ricketts is doing a terrific job for the People of Nebraska! Pete is working hard to Champion our Great Farmers and American Agriculture, Stop Illegal Immigration and Migrant Crime, Cut Taxes, Grow the Economy, Support our Military, Veterans, and Law Enforcement, and Protect our always under siege Second Amendment.Pete is one of the strongest Senators in the Country on Border Security, whereas his potential Opponent,   Dan Osborn, is a Radical Left Open Border Extremist, who will put our Country, and Safety, LAST. Pete, on the other hand, will ALWAYS put Nebraska, and America, FIRST.Senator Pete Ricketts has my Complete and Total Endorsement for Re-Election — HE WILL NEVER LET YOU DOWN!
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 10, 2025, 5:52 PM
+Truth: I am proud to once again endorse Texas Lieutenant Governor, Dan Patrick, for Re-Election.As Texas Chair of our Presidential Campaigns in 2016, 2020, and 2024, Dan has been an incredible friend to our Movement, helping us WIN BIG in the Primaries and General Elections. In his next Term, Dan will fight tirelessly alongside of us to Secure the Border, Stop Migrant Crime, Grow the Economy, Cut Taxes and Regulations, Champion School Choice, Support our Great Military/Vets, Restore American Energy DOMINANCE, and Strongly Protect our always under siege Second Amendment.Dan Patrick has my Complete and Total Endorsement – He will never let you down!
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 10, 2025, 3:06 PM
+Truth: https://www.youtube.com/live/BK2YxPPRqlg?si=LvQtR-YoCJQd059_
+Sentiment: NEGATIVE -> Market Outlook: Bearish
+--------------------------------------------------
+Timestamp: April 10, 2025, 3:03 PM
+Truth: It’s so hard to watch as Highly Qualified and Respected Ambassadors, who we desperately need representing our Country in Faraway Lands, are purposefully meant to wait as the Democrat Senators take maximum time for every single one of them, even though they were confirmed with Bipartisan Support, also at maximum time, and only done to hurt our Country. A process that should take a matter of minutes is forced into taking months, making it very hard on the new Ambassadors’ families, and not good, at all, for the Good Ole’ U.S.A. In a true sense, in numerous cases, what they do is actually a Threat to National Security. John Thune and the Republicans are doing a great job, but nothing much can be done when the Democrats make everyone sit, day after day, pushing the limits. The level of hostility is not to be believed!
+Sentiment: NEGATIVE -> Market Outlook: Bearish
+--------------------------------------------------
+Timestamp: April 10, 2025, 11:28 AM
+Truth: Congratulations to the House on the passage of a Bill that sets the stage for one of the Greatest and Most Important Signings in the History of our Country. Among many other things, it will be the Largest Tax and Regulation Cuts ever even contemplated. MAKE AMERICA GREAT AGAIN!
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 10, 2025, 10:52 AM
+Truth: No text found
+Sentiment: NEGATIVE -> Market Outlook: Bearish
+--------------------------------------------------
+Timestamp: April 10, 2025, 9:38 AM
+Truth: Just out: “INFLATION IS DOWN!!!”
+Sentiment: NEGATIVE -> Market Outlook: Bearish
+--------------------------------------------------
+Timestamp: April 10, 2025, 9:35 AM
+Truth: No more Sanctuary Cities! They protect the Criminals, not the Victims. They are disgracing our Country, and are being mocked all over the World. Working on papers to withhold all Federal Funding for any City or State that allows these Death Traps to exist!!!
+Sentiment: NEGATIVE -> Market Outlook: Bearish
+--------------------------------------------------
+Timestamp: April 10, 2025, 8:28 AM
+Truth: Great News! “The Big, Beautiful Bill” is coming along really well. Republicans are working together nicely. Biggest Tax Cuts in USA History!!! Getting close. DJT
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 10, 2025, 7:44 AM
+Truth: No text found
+Sentiment: NEGATIVE -> Market Outlook: Bearish
+--------------------------------------------------
+Timestamp: April 10, 2025, 12:45 AM
+Truth: What a day, but more great days coming!!!
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 10, 2025, 12:16 AM
+Truth: “EXCLUSIVE: NY Attorney General Letitia James Declares Virginia Home Her ‘Principal Residence’”https://whitecollarfraud.com/2025/04/01/exclusive-ny-attorney-general-letitia-james-declares-virginia-home-her-principal-residence/
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 9, 2025, 11:34 PM
+Truth: Thank you, Vince Molinari. Congratulations on all of your success!
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 9, 2025, 11:23 PM
+Truth: No text found
+Sentiment: NEGATIVE -> Market Outlook: Bearish
+--------------------------------------------------
+Timestamp: April 9, 2025, 6:30 PM
+Truth: It was my Great Honor to welcome the North Dakota State University, 2025 Division 1 Football Champions—to the White House this evening. CONGRATULATIONS!
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 9, 2025, 5:44 PM
+Truth: We are taking historic action to help American workers, miners, families, and consumers. We're ending Joe Biden's war on beautiful, clean coal once and for all, and we're gonna put the miners back to work!
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 9, 2025, 3:30 PM
+Truth: CONGRATULATIONS!
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 9, 2025, 1:18 PM
+Truth: Based on the lack of respect that China has shown to the World’s Markets, I am hereby raising the Tariff charged to China by the United States of America to 125%, effective immediately. At some point, hopefully in the near future, China will realize that the days of ripping off the U.S.A., and other Countries, is no longer sustainable or acceptable. Conversely, and based on the fact that more than 75 Countries have called Representatives of the United States, including the Departments of Commerce, Treasury, and the USTR, to negotiate a solution to the subjects being discussed relative to Trade, Trade Barriers, Tariffs, Currency Manipulation, and Non Monetary Tariffs, and that these Countries have not, at my strong suggestion, retaliated in any way, shape, or form against the United States, I have authorized a 90 day PAUSE, and a substantially lowered Reciprocal Tariff during this period, of 10%, also effective immediately. Thank you for your attention to this matter!
+Sentiment: NEGATIVE -> Market Outlook: Bearish
+--------------------------------------------------
+Timestamp: April 9, 2025, 12:16 PM
+Truth: Jon Husted is doing an incredible job as Senator for the Great State of Ohio! He served as your Lieutenant Governor for seven years prior to becoming a very distinguished and well respected Senator.Jon is a wonderful man, has ALWAYS delivered for Ohio, and will continue doing so in the U.S. Senate. He is working hard to Create Jobs, Lower Costs, Promote Products and Services MADE IN AMERICA by our incredible Ohio Workers, Support our Great Farmers, Champion Innovation, Secure our Border, Stop Criminals, Strengthen our Military/Veterans, and Strongly Protect our always under siege Second Amendment.We are delivering BIG WINS for America. One of the leaders I know I can count on is Ohio’s Senator Jon Husted. He will fight to advance Common Sense Values, and put AMERICA FIRST.Jon Husted has my Complete and Total Endorsement — HE WILL NOT LET YOU DOWN!
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 9, 2025, 9:37 AM
+Truth: THIS IS A GREAT TIME TO BUY!!! DJT
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 9, 2025, 9:33 AM
+Truth: BE COOL! Everything is going to work out well. The USA will be bigger and better than ever before!
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 9, 2025, 9:25 AM
+Truth: “Fixing Trade and Tariffs is a good thing!” Jamie Dimon, JPMorgan Chase, Chairman & CEO, on Maria B Show!
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 9, 2025, 8:58 AM
+Truth: It is IMPERATIVE that Republicans in the House pass the Tax Cut Bill, NOW! Our Country Will Boom!!!
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 9, 2025, 7:58 AM
+Truth: Republicans, it is more important now, than ever, that we pass THE ONE, BIG, BEAUTIFUL BILL. The USA will Soar like never before!!!
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 9, 2025, 7:46 AM
+Truth: MAKE AMERICA GREAT AGAIN!
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 9, 2025, 7:44 AM
+Truth: This is a GREAT time to move your COMPANY into the United States of America, like Apple, and so many others, in record numbers, are doing. ZERO TARIFFS, and almost immediate Electrical/Energy hook ups and approvals. No Environmental Delays. DON’T WAIT, DO IT NOW!
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 8, 2025, 10:16 PM
+Truth: No text found
+Sentiment: NEGATIVE -> Market Outlook: Bearish
+--------------------------------------------------
+Timestamp: April 8, 2025, 9:40 PM
+Truth: I’m proud to be the President for the workers, not the outsourcers; the President who stands up for Main Street, not Wall Street; who protects the middle class, not the political class; and who defends America, not trade cheaters all over the globe.
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 8, 2025, 9:38 PM
+Truth: Last month, we officially designated Tren de Aragua, MS-13 and the Mexican drug cartels as foreign terrorist organizations—and thanks to the Supreme Court yesterday...we will continue to deport these monsters under the Alien Enemies Act…
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 8, 2025, 9:35 PM
+Truth: “Reinvigorating America’s Beautiful Clean Coal Industry and Amending Executive Order 14241”https://www.whitehouse.gov/presidential-actions/2025/04/reinvigorating-americas-beautiful-clean-coal-industry-and-amending-executive-order-14241/
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 8, 2025, 6:11 PM
+Truth: I had a very good meeting today with the Speaker of the House and some of our more Conservative Members, all great people. I let them know that, I AM FOR MAJOR SPENDING CUTS! WE ARE GOING TO DO REDUCTIONS, hopefully in excess of $1 Trillion Dollars, all of which will go into “The One, Big, Beautiful Bill.” I, along with House Members and Senators, will be pushing very hard to get these large scale Spending Cuts done, but we must get the Bill approved NOW. MAKE AMERICA GREAT AGAIN!
+Sentiment: POSITIVE -> Market Outlook: Bullish
+--------------------------------------------------
+Timestamp: April 8, 2025, 5:34 PM
+Truth: No text found
+Sentiment: NEGATIVE -> Market Outlook: Bearish
+--------------------------------------------------
+Timestamp: April 8, 2025, 5:18 PM
+Truth: https://www.youtube.com/live/yGoDK8bVB9k?si=46Oj4YGkKNE7ACC5
+Sentiment: NEGATIVE -> Market Outlook: Bearish
+--------------------------------------------------
