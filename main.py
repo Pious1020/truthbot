@@ -5,6 +5,7 @@ import alpaca_trade_api as tradeapi
 from dotenv import load_dotenv
 import os
 from datetime import datetime
+from datetime import timedelta
 
 # Load .env variables
 load_dotenv()
@@ -20,7 +21,7 @@ api = tradeapi.REST(alpaca_api_key, alpaca_api_secret, base_url='https://paper-a
 telegram_token = os.getenv("TELEGRAM_BOT_TOKEN")
 telegram_chat_id = os.getenv("TELEGRAM_CHAT_ID")
 
-# Initialize the sentiment analysis pipeline with specific model and revision
+# Initialize the sentiment analysis pipeline
 sentiment_analyzer = pipeline(
     "sentiment-analysis",
     model="distilbert/distilbert-base-uncased-finetuned-sst-2-english",
@@ -79,9 +80,48 @@ def close_position(symbol):
     except:
         print(f"No open position in {symbol} to close.")
 
+def close_all_positions_if_market_closing():
+    clock = api.get_clock()
+    now = clock.timestamp
+
+    # Time delta to determine "closing soon"
+    close_threshold = timedelta(minutes=10)
+
+    if clock.is_open and (clock.next_close - now) <= close_threshold:
+        positions = api.list_positions()
+        if not positions:
+            print("📭 No positions to close.")
+            send_telegram_message("📭 No positions to close.")
+            return
+
+        print("🔔 Market closing within 10 minutes. Closing all positions.")
+        send_telegram_message("🔔 Market closing within 10 minutes. Closing all positions.")
+
+        for position in positions:
+            symbol = position.symbol
+            try:
+                api.close_position(symbol)
+                print(f"✅ Closed {symbol}")
+                send_telegram_message(f"✅ Closed {symbol}")
+            except Exception as e:
+                print(f"⚠️ Error closing {symbol}: {e}")
+                send_telegram_message(f"⚠️ Error closing {symbol}: {e}")
+
+
+def calculate_max_shares(symbol):
+    try:
+        buying_power = float(api.get_account().buying_power)
+        latest_price = float(api.get_latest_trade(symbol).price)
+        return int(buying_power // latest_price)
+    except Exception as e:
+        print(f"Error calculating max shares: {e}")
+        return 0
+
 def execute_trade(outlook):
     spy_qty = get_current_position("SPY")
     sh_qty = get_current_position("SH")
+
+    max_shares = calculate_max_shares("SPY" if outlook == "Bullish" else "SH")
 
     if outlook == "Bullish":
         if sh_qty > 0:
@@ -133,7 +173,7 @@ content = truth.find("div", class_="status__content")
 text = content.get_text(strip=True) if content else "No text found"
 
 # Send Telegram update with post details
-message = f"📰 New Trump Post\nTimestamp: {timestamp}\n\n{text}"
+message = f"📰 Newest Trump Post\nTimestamp: {timestamp}\n\n{text}"
 print(message)
 send_telegram_message(message)
 
@@ -155,4 +195,8 @@ else:
     print(msg)
     send_telegram_message(msg)
 
+
+execute_trade(market_outlook)
+
 save_last_timestamp(timestamp)
+close_all_positions_if_market_closing()
