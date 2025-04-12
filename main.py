@@ -9,11 +9,16 @@ from datetime import datetime
 # Load .env variables
 load_dotenv()
 
+# Get Alpaca API keys from environment variables
 alpaca_api_key = os.getenv("ALPACA_API_KEY")
 alpaca_api_secret = os.getenv("ALPACA_API_SECRET")
 
+# Initialize Alpaca API
 api = tradeapi.REST(alpaca_api_key, alpaca_api_secret, base_url='https://paper-api.alpaca.markets')
 
+# Telegram Bot Setup
+telegram_token = os.getenv("TELEGRAM_BOT_TOKEN")
+telegram_chat_id = os.getenv("TELEGRAM_CHAT_ID")
 
 # Initialize the sentiment analysis pipeline with specific model and revision
 sentiment_analyzer = pipeline(
@@ -22,15 +27,23 @@ sentiment_analyzer = pipeline(
     revision="714eb0f"
 )
 
-
 LAST_POST_FILE = "last_post.txt"
 
+def send_telegram_message(message):
+    url = f"https://api.telegram.org/bot{telegram_token}/sendMessage"
+    payload = {
+        "chat_id": telegram_chat_id,
+        "text": message
+    }
+    try:
+        requests.post(url, data=payload)
+    except Exception as e:
+        print(f"Failed to send Telegram message: {e}")
 
 def is_regular_trading_hours():
     clock = api.get_clock()
     now = datetime.now(clock.timestamp.tzinfo)
     return clock.is_open and clock.next_open <= now <= clock.next_close
-
 
 def load_last_timestamp():
     if os.path.exists(LAST_POST_FILE):
@@ -76,12 +89,13 @@ def execute_trade(outlook):
         if spy_qty == 0:
             api.submit_order(
                 symbol='SPY',
-                qty=1,
+                qty=max_shares,
                 side='buy',
                 type='market',
                 time_in_force='gtc'
             )
-            print("✅ Bought 1 share of SPY (Bullish)")
+            print("✅ Bought shares of SPY (Bullish)")
+            send_telegram_message("📈 Action Taken → Bought shares of SPY (Bullish)")
 
     elif outlook == "Bearish":
         if spy_qty > 0:
@@ -89,15 +103,17 @@ def execute_trade(outlook):
         if sh_qty == 0:
             api.submit_order(
                 symbol='SH',
-                qty=1,
+                qty=max_shares,
                 side='buy',
                 type='market',
                 time_in_force='gtc'
             )
-            print("✅ Bought 1 share of SH (Bearish)")
+            print("✅ Bought shares of SH (Bearish)")
+            send_telegram_message("📉 Action Taken → Bought shares of SH (Bearish)")
 
     else:
         print("Sentiment is Neutral. No trade executed.")
+        send_telegram_message("❗ Action Taken → No trade executed (Neutral sentiment)")
 
 # Scrape the most recent post
 url = "https://trumpstruth.org/?per_page=50"
@@ -116,12 +132,15 @@ if meta:
 content = truth.find("div", class_="status__content")
 text = content.get_text(strip=True) if content else "No text found"
 
-print(f"Timestamp: {timestamp}")
-print(f"Post: {text}")
+# Send Telegram update with post details
+message = f"📰 New Trump Post\nTimestamp: {timestamp}\n\n{text}"
+print(message)
+send_telegram_message(message)
 
 last_seen = load_last_timestamp()
 if timestamp == last_seen:
     print("⏳ No new post. Holding current position.")
+    send_telegram_message("⏳ No new post. Holding current position.")
     exit()
 
 # New post detected
@@ -132,6 +151,8 @@ print("-" * 50)
 if is_regular_trading_hours():
     execute_trade(market_outlook)
 else:
-    print("Not regular market hours. Trade not executed.")
+    msg = "⏱ Market closed. No trade executed."
+    print(msg)
+    send_telegram_message(msg)
 
 save_last_timestamp(timestamp)
