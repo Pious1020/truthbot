@@ -177,6 +177,9 @@ message = f"📰 Newest Trump Post\nTimestamp: {timestamp}\n\n{text}"
 print(message)
 send_telegram_message(message)
 
+
+
+
 last_seen = load_last_timestamp()
 if timestamp == last_seen:
     print("⏳ No new post. Holding current position.")
